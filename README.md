@@ -1,5 +1,7 @@
-👋 Hi, I’m RichieNguyen
+Hi, I’m RichieNguyen 👋
+
 I am a CS student @ University of Houston with a minor in mathematics
+
 Expected Graduation: December 2025
 
 <!---
